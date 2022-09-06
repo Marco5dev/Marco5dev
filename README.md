@@ -34,3 +34,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&theme=dark&locale=en" alt="marco5dev" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&" alt="marco5dev" /></p>
+
+<h1 align="center">Discord</h1>
+
+<div align="center"> 
+   <a href="https://discord.com/users/966418622165704814"> 
+     <img src="https://lanyard.cnrad.dev/api/966418622165704814?theme=light&bg=F4BFC7&borderRadius=15px&animated=true&idleMessage=On%20the%20sky%20there%20is%20an%20angel%20in%20somewhere%20(.%20%E2%9D%9B%20%E1%B4%97%20%E2%9D%9B.)"> 
+   </a> 
+ </div>
