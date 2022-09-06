@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Maher</h1>
 <h3 align="center">I am Full Stack Web Developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=blue&style=for-the-badge" alt="marco5dev" style="width: 150px"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=blue&style=for-the-badge" alt="marco5dev" style="width: 150px"/> </p>
 
 
 - 🔭 I’m currently working on [my Portfolio](https://mark-maher.ml)
