@@ -23,11 +23,10 @@
 <a href="https://discord.gg/https://discord.com/users/966418622165704814" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/966418622165704814" height="30" width="40" /></a>
 </p>
 <br>
-<h3 align="center">Discord</h3>
+<h3 align="left">Discord</h3>
 
-   <a align="center" href="https://discord.com/users/966418622165704814"> 
-     <img align="center" src="https://lanyard.cnrad.dev/api/966418622165704814?theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer"> 
-   </a>
+ <a align="left" href="https://discord.com/users/966418622165704814"> 
+ <img align="center" src="https://lanyard.cnrad.dev/api/966418622165704814?theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer"></a>
    
 <br>
 <h3 align="left">Languages and Tools:</h3>
