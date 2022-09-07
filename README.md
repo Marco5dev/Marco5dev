@@ -33,9 +33,18 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mark5dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mark5dev" /></a></p><br><br><br>
+<br>
+
+<h3 align="left">Progress bar</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=tru&theme=dark&locale=en&layout=compact" alt="marco5dev" /></p>
+
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&theme=dark&locale=en" alt="marco5dev" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&theme=dark&locale=en" alt="marco5dev" 
+/></p>
+
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&" alt="marco5dev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&" alt="marco5dev" 
+/></p>
