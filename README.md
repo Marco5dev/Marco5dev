@@ -25,8 +25,7 @@
 <br>
 <h3 align="left">Discord</h3>
 
- <a align="left" href="https://discord.com/users/966418622165704814"> 
- <img align="center" src="https://lanyard.cnrad.dev/api/966418622165704814?theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer"></a>
+[![Discord Presence](https://lanyard.cnrad.dev/api/966418622165704814)](https://discord.com/users/966418622165704814theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer)
    
 <br>
 <h3 align="left">Languages and Tools:</h3>
