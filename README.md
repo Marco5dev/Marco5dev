@@ -4,11 +4,11 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=blue&style=for-the-badge" alt="marco5dev" style="width: 150px"/> </p>
 
 
-- 🔭 I’m currently working on [my Portfolio](https://mark-maher.ml)
+- 🔭 I’m currently working on Nothing :)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **CS50**
 
-- 👨‍💻 All of my projects will be available at [my Portfolio ](https://mark-maher.ml)
+- 👨‍💻 All of my projects will be available at [my Portfolio ](https://mark-maher.repl.co)
 
 - 💬 Ask me about **Node.js, CSS, Html, JavaScript**
 
