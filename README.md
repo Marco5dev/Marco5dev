@@ -38,6 +38,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="marco5dev" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&theme=dark" alt="marco5dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&show_icons=true" alt="marco5dev" /></p>
 
 <br>
+
+## 🐍 Commits Snake Game
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+
+<br>
 <h3 align="left">Discord</h3>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/966418622165704814)](https://discord.com/users/966418622165704814theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer)
