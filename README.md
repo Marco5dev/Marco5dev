@@ -35,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/marco5dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marco5dev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact" alt="marco5dev" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en" alt="marco5dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&" alt="marco5dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="marco5dev" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&theme=dark" alt="marco5dev" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&show_icons=true" alt="marco5dev" /></p>
 
 <br>
 <h3 align="left">Discord</h3>
