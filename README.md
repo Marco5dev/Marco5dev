@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Maher Ewida</h1>
 <h3 align="center">Unveiling the Journey of a Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="marco5dev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco5dev&theme=onedark" alt="marco5dev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/mark5dev" target="blank"><img src="https://img.shields.io/twitter/follow/mark5dev?logo=twitter&style=for-the-badge&theme=onedark" alt="mark5dev" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [jsonVerse](https://github.com/marco5dev/jsonverse)
 
@@ -15,7 +11,7 @@
 
 - 🤝 I’m looking for help with [jsonVerse](https://github.com/marco5dev/jsonverse)
 
-- 👨‍💻 All of my projects are available at [https://github.com/marco5dev](https://github.com/marco5dev)
+- 👨‍💻 All of my projects are available at [https://marco5dev.web.app](https:/)
 
 - 💬 Ask me about **react, nodejs, express, mongoose, json, db, and jsonVerse**
 
