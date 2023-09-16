@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mark Maher Ewida</h1>
 <h3 align="center">Unveiling the Journey of a Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=0e75b6&style=flat" alt="marco5dev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marco5dev&label=Profile%20views&color=0e75b6&style=flat&theme=onedark" alt="marco5dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco5dev" alt="marco5dev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco5dev&theme=onedark" alt="marco5dev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mark5dev" target="blank"><img src="https://img.shields.io/twitter/follow/mark5dev?logo=twitter&style=for-the-badge" alt="mark5dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mark5dev" target="blank"><img src="https://img.shields.io/twitter/follow/mark5dev?logo=twitter&style=for-the-badge&theme=onedark" alt="mark5dev" /></a> </p>
 
 - 🔭 I’m currently working on [jsonVerse](https://github.com/marco5dev/jsonverse)
 
