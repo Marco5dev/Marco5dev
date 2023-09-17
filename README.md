@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Maher Ewida</h1>
 <h3 align="center">Unveiling the Journey of a Full Stack Web Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=onedark&no-frame=true&row=1&column=10" width="1000" alt="trophy"></p>
 
 - 🔭 I’m currently working on [jsonVerse](https://github.com/marco5dev/jsonverse)
 
