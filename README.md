@@ -4,8 +4,11 @@
   <span style="font-size: 1.5em;">🚀 Where the Remarkable Unfolds in Mark Maher's Realm</span>
 </h1>
 
+<h3 align="center">GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&row=1&column=10" alt="trophy"/>
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 <p align="center">
