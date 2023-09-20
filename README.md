@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mark Maher Ewida</h1>
 <h3 align="center">Unveiling the Journey of a Full Stack Web Developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=onedark&no-frame=true&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&row=1&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [jsonVerse](https://github.com/marco5dev/jsonverse)
 
@@ -31,7 +31,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/marco5dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="marco5dev" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=dark" alt="marco5dev" /><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&theme=dark" alt="marco5dev" /><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=dark&show_icons=true" alt="marco5dev" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="marco5dev" /><br>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&theme=gruvbox&no-frame=true" alt="marco5dev" /><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=gruvbox&show_icons=true&no-frame=true" alt="marco5dev" /></p>
 
 <br>
 
