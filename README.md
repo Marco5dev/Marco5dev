@@ -5,7 +5,8 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&row=1&column=10" alt="trophy"/>
+  
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=4&column=7)
 </div>
 
 <p align="center">
