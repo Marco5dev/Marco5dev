@@ -74,8 +74,8 @@ Greetings, fellow explorer! I'm Mark Maher Ewida, your guide to the vast univers
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="Top Cosmic Languages" /><br>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&theme=gruvbox&no-frame=true" alt="My Cosmic Stats" /><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marco5dev&theme=gruvbox&show_icons=true&no-frame=true" alt="My Cosmic Streak" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="My Cosmic Stats" /><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="My Cosmic Streak" />
 </p>
 
 <br>
