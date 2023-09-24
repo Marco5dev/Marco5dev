@@ -63,23 +63,3 @@ Greetings, fellow explorer! I'm Mark Maher Ewida, your guide to the vast univers
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
-
-## ☕ Support the Cosmic Expedition
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/marco5dev"> 
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Cosmic Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="Top Cosmic Languages" /><br>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="My Cosmic Stats" /><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=marco5dev&show_icons=true&locale=en&layout=compact&theme=gruvbox&no-frame=true" alt="My Cosmic Streak" />
-</p>
-
-<br>
-
-## 🌌 Join the Cosmic Discord
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/966418622165704814)](https://discord.com/users/966418622165704814theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer)
