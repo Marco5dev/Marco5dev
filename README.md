@@ -6,7 +6,7 @@
 
 <div align="center">
   
- ![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=4&column=7)
+ ![trophy](https://github-profile-trophy-kappa.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=4&column=7)
 </div>
 
 <p align="center">
