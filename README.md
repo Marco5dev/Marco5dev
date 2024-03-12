@@ -7,6 +7,8 @@
 <div align="center">
   
  ![trophy](https://github-profile-trophy-kappa.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=4&column=7)
+<br />
+ <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
