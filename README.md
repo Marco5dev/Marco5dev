@@ -21,7 +21,7 @@ Greetings, fellow explorer! I'm Mark Maher Ewida, your guide to the vast univers
 
 🪐 **Learning Nebula:** Currently studying the constellations of React, React DOM, and React Router. 🌠
 
-🛸 **Collaboration Warp:** Seeking like-minded cosmic travelers to join forces on [jsonVerse](https://github.com/marco5dev/jsonverse) using Express, HTML, and more.
+🛸 **Collaboration Warp:** Seeking like-minded cosmic travelers to join forces on [jsonVerse](https://github.com/marco5dev/jsonverse) using js, ts, and more.
 
 🌟 **Interstellar SOS:** If you possess the ancient knowledge of web development, I welcome your guidance on [My Universe](https://github.com/Marco5dev?tab=repositories).
 
