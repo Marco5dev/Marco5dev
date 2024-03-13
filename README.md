@@ -11,8 +11,8 @@
  <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
-  <img src="https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 </p>
 
 </div>
