@@ -6,7 +6,7 @@
 
 <div align="center">
   
- ![trophy](https://github-profile-trophy-kappa.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=4&column=7)
+ ![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=5&column=8)
 <br />
  <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
