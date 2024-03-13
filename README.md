@@ -6,16 +6,11 @@
 
 <div align="center">
   
- ![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=5&column=8)
-<br />
- <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-<p align="center">
-  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Marco5dev&theme=gruvbox&no-frame=true&margin-w=5&column=8)
   <img src="https://github.com/Marco5dev/Marco5dev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
   <img src="https://github.com/Marco5dev/Marco5dev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
 
-
+   <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
 ## 🌟 The Cosmic Explorer
