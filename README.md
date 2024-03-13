@@ -12,8 +12,8 @@
 
 <p align="center">
   
-  <img src="https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
-  <img src="https://raw.githubusercontent.com/Marco5dev/Marco5dev/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
+  <img src="https://github.com/Marco5dev/Marco5dev/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
+  <img src="https://github.com/Marco5dev/Marco5dev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
 
 
 </div>
