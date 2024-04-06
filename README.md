@@ -11,6 +11,8 @@
   <img src="https://github.com/Marco5dev/Marco5dev/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation in the cosmic universe" />
 
    <a href="https://www.buymeacoffee.com/marco5dev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+   [![Discord Presence](https://lanyard.cnrad.dev/api/966418622165704814)](https://discord.com/users/966418622165704814theme=dark&borderRadius=25px&animated=true&idleMessage=Mark%20Maher%20Full%20Stack%20Web%20Developer)
 </div>
 
 ## 🌟 The Cosmic Explorer
